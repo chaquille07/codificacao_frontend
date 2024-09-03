@@ -1,0 +1,11 @@
+EXEMPLO
+
+p{
+    color: red;
+    background: black;
+    font-size: 12px;
+}
+
+ESTILO INLINE 
+
+<p style="color:white"
